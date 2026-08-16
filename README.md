@@ -1,0 +1,2 @@
+# Romania-Crop-Yield-Gap
+Benchmarked Romania's crop yields and land productivity against major producers — France, Germany, Ukraine, and the USA — using FAOSTAT crop production and producer price data in a custom SQLite database. Applied SQL joins, aggregations, and economic calculations to quantify yield gaps, intensification vs. extensification patterns, and market resilience to the 2022 Ukraine war shock, with insights visualised using Python, Pandas, and Matplotlib.
