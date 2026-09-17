@@ -13,9 +13,9 @@ The project evaluates four primary row crops: wheat, maize, barley, and sunflowe
 
 ## Contents
 
-- **[Part 1: The International Benchmark](part1/README.md)**
+- **[Part 1: The International Benchmark](Part%201/part1_README.md)**
 SQL + Python pipeline analyzing FAOSTAT production and price data. Evaluates yield metrics, land productivity in dollar terms, 2022 production shifts, and 2024 regional drought impacts.
-- **[Part 2: The County-Level Picture](part2/README.md)**
+- **[Part 2: The County-Level Picture](Part%202/part2_README.md)**
 QGIS + Python spatial workflow joining INS TEMPO county yield metrics with Eurostat NUTS3 boundaries to map internal spatial yield distributions.
 
 ## Tools across both parts
